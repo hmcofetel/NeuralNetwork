@@ -1,0 +1,3 @@
+[submodule "3pp/eigen"]
+	path = 3pp/eigen
+	url = https://gitlab.com/libeigen/eigen.git
